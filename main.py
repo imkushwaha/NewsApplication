@@ -3,8 +3,7 @@ import webbrowser
 import requests
 from tkinter import *
 from urllib.request import urlopen
-from PIL import ImageTk
-from PIL import Image
+from PIL import ImageTk,Image
 
 
 class NewsApp:
